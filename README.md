@@ -1,1 +1,1 @@
-# sfKafkaNotification
+# sfKafkaNotification (Symfony, Kafka, Docker)
